@@ -1,5 +1,5 @@
 # 👽 About Me:
-Currently Studying Computer Science
+Currently Studying Computer Science!
 
 
 ## 🌐 Socials:
